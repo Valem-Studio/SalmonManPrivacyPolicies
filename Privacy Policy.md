@@ -1,31 +1,76 @@
-PRIVACY POLICY FOR SALMON MAN ON QUEST 2, QUEST PRO, QUEST 3, QUEST 3S
-SALMON MAN is a game developed by Valem Studio for the Meta Quest platform. We prioritize your privacy and are committed to complying with all applicable privacy regulations, including the European Union's General Data Protection Regulation (GDPR). The game is designed for an entirely offline, solo experience, and no internet connection is required for gameplay. Ghost Hunter does not collect any personal information, data, or game statistics. We will never request, gather, or transmit any data.
+## 🧾 **PRIVACY POLICY FOR SALMON MAN (Quest 2, Quest Pro, Quest 3, Quest 3S)**
 
-COMMITMENT TO CONFIDENTIALITY
-Valem Studio is committed to safeguarding your privacy while you use SALMON MAN on the Meta Quest platform. Below are the key points of our privacy policy:
+**Effective Date:** September 2025  
+**Developer:** Valem Studio  
+**Contact:** [contact@valemstudio.com](mailto:contact@valemstudio.com)
 
-Confidential Information
+---
 
-"Confidential Information" refers to any data or information exchanged between Valem Studio and the user in any form (though in the context of this game, no such exchange takes place). We guarantee that no personal data will be collected by Ghost Hunter.
-Ownership and Use of Data
+### **1. Introduction**
 
-Any information related to your use of the game will remain entirely private. We do not transmit, sell, or monetize any data, as SALMON MAN operates entirely offline. No third-party providers will have access to any information about your gameplay.
-Duration of the Agreement
+**SALMON MAN** is a VR game developed by **Valem Studio** for the Meta Quest platform.  
+We respect your privacy and are committed to complying with all applicable data protection laws, including the General Data Protection Regulation (GDPR).
 
-This privacy agreement is effective from the moment you download and install SALMON MAN. The terms of this agreement will remain in effect for as long as you use the game, and since no data is collected, your privacy is always maintained.
-Governing Law and Jurisdiction
+SALMON MAN is designed as an **offline, single-player experience**. The game does not collect, store, or transmit any personal data directly to Valem Studio.
 
-This privacy policy is governed by the laws applicable in your country of residence, and any disputes related to this policy will be handled under the relevant legal jurisdictions.
-USER RIGHTS & DATA PROTECTION
-As SALMON MAN does not collect, store, or process any personal data, you maintain full control over your information. There are no user rights to exercise in relation to personal data, as we do not request or handle any such information.
+However, because the game is distributed through the **Meta Quest platform**, certain data may be processed automatically by **Meta Platforms, Inc.** to enable platform features and ensure proper functionality.
 
-DATA TRANSMISSION
-There is no data transmission involved in playing SALMON MAN. The game is fully offline and does not require or request an internet connection. As a result, no data, including personal or gameplay-related information, is ever transmitted to us or any third parties.
+---
 
-HOW WE PROTECT YOUR PRIVACY
-Valem Studio is dedicated to ensuring that your privacy is respected throughout your experience with SALMON MAN. Specifically, we guarantee that:
+### **2. Data Processed Through the Meta Platform**
 
-SALMON MAN is an offline game.
-No data, including personal or statistical information, is collected.
-No personal information is shared or communicated with any third parties.
-The game does not log or store any gameplay statistics or personal details.
+While Valem Studio does not collect or store any user information, **Meta** may process certain data as part of your interaction with the game, including:
+
+- **Meta Account Information** (such as user ID or profile) used by Meta to authenticate ownership of the game.  
+- **Device and System Data** (for example, headset type, performance logs, or crash reports) automatically handled by Meta for platform stability and analytics.  
+- **Entitlement Verification** to confirm that your account is authorized to play the game.  
+
+This data is **handled exclusively by Meta** in accordance with [Meta’s Privacy Policy](https://www.meta.com/legal/quest/privacy-policy/).  
+Valem Studio does **not** have access to this data and does not use it for analytics, advertising, or tracking.
+
+---
+
+### **3. Data Collected by Valem Studio**
+
+Valem Studio does **not**:
+
+- Collect or process any personal data or gameplay statistics.  
+- Use any third-party analytics tools.  
+- Request or transmit any information over the internet.  
+
+SALMON MAN runs entirely offline and does not connect to external servers.
+
+---
+
+### **4. Data Usage and Sharing**
+
+Because no personal data is collected by Valem Studio, **no information is shared, sold, or transmitted** to any third parties.
+
+Any platform-level data handled by Meta is processed under Meta’s own policies and is not accessible to Valem Studio.
+
+---
+
+### **5. Data Retention and Deletion Requests**
+
+Since Valem Studio does not store any personal data, there is **no data to delete** on our side.  
+
+If you wish to manage or delete any information related to your Meta account, please refer to [Meta’s data management tools](https://www.meta.com/legal/quest/privacy-policy/) or contact Meta directly through your account settings.
+
+If you have questions about this Privacy Policy, you can contact us at:  
+📧 [contact@valemstudio.com](mailto:contact@valemstudio.com)
+
+---
+
+### **6. Governing Law**
+
+This Privacy Policy is governed by the laws of your country of residence.  
+Any disputes relating to this policy will be handled in accordance with applicable legal jurisdictions.
+
+---
+
+### **7. Summary**
+
+- SALMON MAN is a fully offline game.  
+- Valem Studio does not collect, store, or process any user data.  
+- Platform-level data (such as entitlements or crash reports) may be processed by Meta only.  
+- You can contact Valem Studio or Meta to request information or deletion related to your data.
